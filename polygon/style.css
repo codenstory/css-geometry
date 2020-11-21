@@ -1,0 +1,10 @@
+.triangle {
+  width: 0; height: 0;
+  border-bottom: 86.602540378443864676372317075294px solid black;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+}
+.quadrilateral {
+  width: 0; height: 0;
+  border: 50px solid black;
+}
